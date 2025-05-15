@@ -1,0 +1,87 @@
+.AuthForm {
+  &-carousel {
+    position: relative;
+    min-height: 100vh;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .Carousels {
+      max-width: 584px;
+      width: 100%;
+      .slick-slider {
+        padding-bottom: 24px;
+      }
+      .slick-next,
+      .slick-prev {
+        top: unset;
+        bottom: 0;
+        transform: translateY(70%);
+        z-index: 2;
+      }
+      .slick-prev {
+        left: 25%;
+      }
+      .slick-next {
+        right: 25%;
+      }
+    }
+    &-bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      video,
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+        margin: auto;
+      }
+    }
+    &-item {
+      text-align: center;
+      &-image {
+        img {
+          width: 100%;
+        }
+      }
+      &-title {
+        margin-bottom: 16px;
+        font-size: 25px;
+        font-weight: 700;
+        color: #ffffff;
+      }
+
+      &-description {
+        font-size: 16px;
+        font-weight: 500;
+        color: #ffffff;
+      }
+    }
+  }
+  &-wrapper {
+    height: 100%;
+    background: #fff;
+  }
+  &-children {
+    width: 100%;
+    max-width: 360px;
+    .ant-input-affix-wrapper > input.ant-input {
+      text-align: center;
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  .content {
+    height: 1080px;
+  }
+}
+@media (max-width: 450px) {
+  .content {
+    height: 932px;
+  }
+}

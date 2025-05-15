@@ -1,0 +1,44 @@
+.modal-key-frequency {
+  .list-key-frequency {
+    .action-keyword-frequency {
+      .add-keyword-frequency {
+        cursor: pointer;
+        font-size: 18px;
+      }
+    }
+    .kw-frequency {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+    .value-keyword-frequency {
+      cursor: pointer;
+      font-weight: 400;
+      color: #1a90ff;
+    }
+  }
+}
+
+.modal-detail-value {
+  .ant-modal-body {
+    max-height: 500px;
+    overflow-y: auto;
+    h3 {
+      font-size: 14px;
+      font-weight: 550;
+      &::before {
+        content: '#';
+        display: inline-block;
+        margin-right: 5px;
+      }
+    }
+    .highlight-keyword {
+      background-color: #ffc225;
+      font-weight: 550;
+    }
+    ul,
+    li {
+      padding: 5px 0px;
+      margin: 0px 7px;
+    }
+  }
+}

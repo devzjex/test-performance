@@ -1,0 +1,122 @@
+.detail-categories {
+  text-align: left;
+
+  .detail-categories-body {
+    .container-title-body {
+      margin-top: 20px;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      min-height: 90px;
+      flex-direction: column;
+    }
+    .pagination {
+      display: flex;
+      justify-content: center;
+      margin-top: 30px;
+    }
+    .title {
+      font-size: 30px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      min-height: 35px;
+    }
+    .information-cate {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      .title-apps {
+        font-size: 18px;
+        color: #535353;
+        display: flex;
+        align-items: center;
+        span {
+          font-weight: bold;
+          color: black;
+        }
+      }
+      .link {
+        background-color: rgb(255, 194, 37);
+        border-color: rgb(255, 194, 37);
+        color: rgb(67, 77, 86);
+        border-radius: 3px;
+        box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
+        padding: 10px 15px;
+        font-weight: 500;
+        .icon-share {
+          font-size: 16px;
+          margin-left: 6px;
+          color: rgb(67, 77, 86);
+        }
+      }
+    }
+    .sort {
+      display: flex;
+      gap: 15px;
+      align-items: flex-end;
+      margin-top: 20px;
+      flex-wrap: wrap;
+      .ant-space {
+        cursor: pointer;
+        &:hover {
+          color: #ffc225;
+        }
+        .anticon-down {
+          font-size: 13px;
+        }
+      }
+      .ant-select-single {
+        height: 39px;
+        &:focus-within {
+          .ant-select-selector {
+            border-color: #ffc225 !important;
+          }
+        }
+        &:hover {
+          .ant-select-selector {
+            border-color: #ffc225 !important;
+          }
+        }
+        .ant-select-selector {
+          padding: 10px 25px;
+          border-radius: 20px;
+          border: 1px solid #ccc;
+          color: #000000;
+          font-weight: 500;
+          cursor: pointer;
+        }
+      }
+      .select-label {
+        display: block;
+        font-size: 14px;
+        font-weight: 500;
+        margin-bottom: 4px;
+      }
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .detail-categories {
+    .detail-categories-body {
+      .container-title-body {
+        flex-direction: column;
+      }
+      .pagination {
+        margin-bottom: 20px;
+      }
+    }
+  }
+}
+@media (max-width: 500px) {
+  .detail-categories {
+    .detail-categories-body {
+      .pagination {
+        .ant-pagination-total-text {
+          display: none;
+        }
+      }
+    }
+  }
+}

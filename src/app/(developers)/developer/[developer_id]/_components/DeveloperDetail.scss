@@ -1,0 +1,38 @@
+.developer-detail {
+  .list-developer-detail {
+    .info-developer-detail {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      flex-wrap: wrap;
+
+      .amount-app {
+        font-size: 15px;
+        gap: 20px;
+        display: flex;
+        p {
+          margin-top: 1px;
+        }
+        .icon-trophy,
+        .icon-star {
+          color: #d8aa34;
+        }
+      }
+      .title-name {
+        font-size: 40px;
+        font-weight: bold;
+      }
+      .sort-developer-detail {
+        width: 130px;
+        margin-top: 30px;
+        margin-left: 10px;
+      }
+    }
+    .body-developer-detail {
+      margin-top: 30px;
+    }
+  }
+  .pagination {
+    margin-top: 30px;
+  }
+}

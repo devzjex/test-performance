@@ -1,0 +1,49 @@
+.popup-change-log {
+  .ant-modal-body {
+    max-height: 500px;
+    overflow: auto;
+  }
+}
+.content-popup-change-log {
+  max-height: 500px !important;
+  overflow: auto !important;
+}
+
+.ant-modal-footer {
+  display: block !important;
+}
+
+.change-log-text {
+  .change-log-desc {
+    display: block;
+    color: #444a51;
+    margin-top: 10px;
+  }
+  span {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #ffc225;
+  }
+}
+
+.block-header {
+  h2 {
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.88);
+    font-size: 14px;
+  }
+}
+
+.chart-loading_change {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 560px;
+}
+.chart-change {
+  padding: 30px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 560px;
+}

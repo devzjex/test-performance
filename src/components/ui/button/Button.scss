@@ -1,0 +1,37 @@
+.Button {
+  .ant-btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &.ant-btn-primary {
+      background: #ffc533;
+      border-color: #ffc533;
+    }
+
+    &.ant-btn-defautl {
+      &:hover {
+        color: #ffc533;
+        border-color: #ffc533;
+      }
+    }
+
+    &.ant-btn-link {
+      color: #ffc533;
+    }
+  }
+
+  &.reverse {
+    .ant-btn {
+      flex-direction: row-reverse;
+
+      .Button {
+        &-title {
+          margin-left: 0;
+          margin-right: 8px;
+        }
+      }
+    }
+  }
+}

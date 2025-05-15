@@ -1,0 +1,297 @@
+.sasiLayoutBackground {
+  background-color: #eef1f3 !important;
+  height: 80px !important;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+
+  .headerSasi {
+    margin-right: auto;
+    margin-left: auto;
+    .headerProfile {
+      text-align: right;
+      padding-left: 15px;
+      &:hover {
+        cursor: pointer;
+      }
+      .avatarProfileHeader {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .notificationAccount {
+        margin-right: 30px;
+        .bellIcon {
+          font-size: 20px;
+        }
+        sup {
+          font-size: 10px;
+          height: 20px;
+          min-width: 20px;
+          padding: 0px 5px;
+        }
+      }
+    }
+
+    .menuSasi {
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+      line-height: 75px;
+
+      .menuContent {
+        display: flex;
+        align-items: center;
+        width: 80%;
+      }
+
+      .logoSasi {
+        cursor: pointer;
+        .menuLogo {
+          background: none;
+          border: none;
+          .logItem {
+            height: auto;
+            background-color: transparent;
+            padding: 0;
+          }
+        }
+        .imgResponsive {
+          vertical-align: middle;
+          border-style: none;
+        }
+      }
+
+      .menuRight {
+        width: 100%;
+        .listMenu {
+          width: 1400px;
+          max-width: 1400px;
+
+          .horizontalMenu {
+            background-color: #eef1f3;
+            border: none;
+            .menuItemDetail {
+              padding-left: 50px;
+              &::after {
+                border: none;
+              }
+              &:hover {
+                border-bottom: none;
+              }
+              .menuLink {
+                font-weight: 500;
+                color: #000000;
+                font-size: 16px;
+                &:hover,
+                &:focus,
+                &:active {
+                  color: #ffc225;
+                }
+              }
+              .active {
+                color: #ffc225 !important;
+              }
+            }
+
+            .menuItemSearch {
+              text-align: center;
+              &::after {
+                border: none;
+              }
+              &:hover {
+                border-bottom: none;
+              }
+              .searchIcon {
+                margin-left: 10px;
+                font-size: 16px;
+                color: #555d66;
+              }
+              .searchText {
+                display: none;
+              }
+              .closeIcon {
+                font-size: 18px;
+                color: #ff0000;
+                margin-left: 5px;
+              }
+              .searchData {
+                border-radius: 4px;
+                width: 260px;
+                &:focus-within,
+                &:hover,
+                .ant-input-affix-wrapper-focused {
+                  border-color: #ffc225;
+                  box-shadow: 0 0 0 2px rgba(238, 197, 17, 0.2);
+                }
+              }
+            }
+          }
+        }
+      }
+
+      .registerLogin {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: nowrap;
+        width: 210px;
+        .buttonRegister {
+          padding-left: 2px;
+          position: relative;
+          &Styled {
+            background-color: rgba(255, 194, 37, 1) !important;
+            border-color: rgba(255, 194, 37, 1) !important;
+            color: rgba(67, 77, 86, 1) !important;
+            border-radius: 20px !important;
+            font-size: 15px !important;
+            box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
+            height: 40px !important;
+            padding: 10px 15px;
+            font-weight: 500;
+            span {
+              font-weight: 500;
+            }
+          }
+          &::after {
+            content: ' ';
+            position: absolute;
+            left: 120px;
+            top: 23px;
+            height: 30px;
+            border: 1px solid #cbcbcb;
+          }
+        }
+        .buttonLogin {
+          margin-left: 15px;
+          &Styled {
+            border: none;
+            box-shadow: none;
+            background-color: #eef1f3;
+            margin: 0;
+            padding: 0;
+            color: #000000;
+            &:hover {
+              color: #555d66;
+            }
+            span {
+              font-weight: 500;
+              font-size: 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.appsDropdown {
+  padding: 0 !important;
+  border-radius: 0 !important;
+  .diamondIcon {
+    width: 15px;
+    height: 15px;
+    margin-top: -3px;
+    margin-left: 7px;
+    margin-right: 5px;
+  }
+  .noActive {
+    background-color: #ffffff;
+    color: #000000 !important;
+    &:hover {
+      background-color: #ffc225 !important;
+      border-radius: 0 !important;
+    }
+  }
+
+  a {
+    color: #000000;
+    &:hover {
+      color: #000000;
+    }
+  }
+
+  .activeItem {
+    background-color: #ffc225 !important;
+    color: #000000 !important;
+    border-radius: 0 !important;
+  }
+  .active {
+    color: #ffc225 !important;
+  }
+}
+
+.appsDropdownMyApps {
+  padding: 0 !important;
+  border-radius: 0 !important;
+  overflow: auto !important;
+  max-height: 700px;
+  .diamondIcon {
+    width: 15px;
+    height: 15px;
+    margin-top: -3px;
+    margin-left: 7px;
+    margin-right: 5px;
+  }
+  .noActive {
+    background-color: #ffffff;
+    color: #000000 !important;
+    &:hover {
+      background-color: #ffc225 !important;
+      border-radius: 0 !important;
+    }
+  }
+
+  a {
+    color: #000000;
+    &:hover {
+      color: #000000;
+    }
+  }
+
+  .activeItem {
+    background-color: #ffc225 !important;
+    color: #000000 !important;
+    border-radius: 0 !important;
+  }
+  .active {
+    color: #ffc225 !important;
+  }
+}
+
+.image {
+  margin: 2px 5px 5px 0;
+  border-radius: 4px;
+}
+
+.noImage {
+  border: 1px solid #cbcbcb;
+}
+
+.reviewChange {
+  font-weight: 500;
+}
+
+.ant-dropdown-menu {
+  border-radius: 0 !important;
+}
+
+.scrollableMenu {
+  max-height: 700px;
+}
+
+@media (max-width: 1680px) {
+  .menuContent {
+    width: 100% !important;
+    .listMenu {
+      width: 100% !important;
+    }
+  }
+}
+
+@media (max-width: 1185px) {
+  .logoSasi {
+    display: none;
+  }
+}

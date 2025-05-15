@@ -1,0 +1,26 @@
+.block-header-review {
+  padding: 15px;
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 1px solid #cccccc;
+}
+
+.chart-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 460px;
+}
+.chart {
+  padding: 30px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 460px;
+}
+
+.review-message {
+  display: block;
+  color: #444a51;
+  margin-top: 10px;
+}

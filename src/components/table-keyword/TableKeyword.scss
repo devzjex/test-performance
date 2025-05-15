@@ -1,0 +1,54 @@
+tr.drop-over-downward td {
+  border-bottom: 2px dashed #1890ff;
+}
+
+tr.drop-over-upward td {
+  border-top: 2px dashed #1890ff;
+}
+
+.difficult-tag {
+  border-radius: 6px;
+  cursor: default;
+}
+.difficulty {
+  cursor: default;
+}
+
+.icon-google {
+  margin-right: 10px;
+  margin-top: 2px;
+  img {
+    width: 20px;
+    height: 20px;
+  }
+}
+.show-icon {
+  font-size: 16px;
+  color: #049d0b !important;
+}
+
+.icon-action-keyword {
+  .remove {
+    .remove-icon {
+      color: #ff0000 !important;
+    }
+  }
+}
+
+.keyword-text {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  .link {
+    margin-right: 5px;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    color: #1677ff;
+  }
+}
+
+.count-false {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  color: #1677ff;
+}

@@ -1,0 +1,47 @@
+.appIcon {
+  display: flex;
+  align-items: center;
+  img {
+    max-width: 65px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+}
+
+.appName {
+  margin: 0;
+  cursor: pointer;
+  font-size: 16px !important;
+  a {
+    color: #000000 !important;
+    &:hover {
+      color: #000000 !important;
+    }
+  }
+}
+
+.tableApp {
+  margin-top: 34px;
+  .title {
+    color: #000000;
+    margin: 20px;
+  }
+}
+.appDesc {
+  font-size: 15px;
+  overflow: hidden;
+  font-weight: 400;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+@media (max-width: 1366px) {
+  .tableAppCollection {
+    width: 100% !important;
+    display: block;
+    white-space: nowrap;
+    overflow-x: auto;
+  }
+}

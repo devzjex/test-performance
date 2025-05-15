@@ -1,0 +1,77 @@
+.header {
+  &Mobile {
+    &Logo {
+      height: 76px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #eef1f3;
+      img {
+        width: 80px;
+      }
+    }
+    &Bottom {
+      padding: 18px 18px;
+      background-color: #000e2d;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+    }
+    &List {
+      width: 100%;
+      padding-left: 0;
+      z-index: 99;
+      margin: 0;
+      background: #000e2d;
+      max-height: 0;
+      transition: 0.5s;
+      overflow: hidden;
+      text-align: left;
+      li {
+        a {
+          display: block;
+          width: 100%;
+          padding: 10px 0;
+          color: #ffffff;
+        }
+      }
+      &.active {
+        max-height: 100vh;
+      }
+      .not-show-app {
+        display: none;
+      }
+      .show-app {
+        display: block;
+      }
+      .hasSubMenu {
+        position: relative;
+        .dropdownMenu {
+          transition: 0.5s;
+          max-height: 0;
+          overflow: hidden;
+          padding-left: 10px;
+          &.active {
+            max-height: 100vh;
+          }
+        }
+      }
+    }
+    &Search {
+      flex: 1;
+      margin: 0 15px;
+    }
+    &Login {
+      .buttonLogin {
+        .linkLoginApp {
+          background-color: #ffc225;
+          color: #000000;
+          padding: 8px 15px;
+          border-radius: 6px;
+          font-weight: 500;
+        }
+      }
+    }
+  }
+}

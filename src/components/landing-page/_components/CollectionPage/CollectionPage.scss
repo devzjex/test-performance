@@ -1,0 +1,29 @@
+.layoutLandingPageCollection {
+  margin-top: 50px;
+  margin-bottom: 150px;
+  @media (max-width: 996px) {
+    margin-top: 100px;
+  }
+  .bordered {
+    border: 1px solid #dbdbdb;
+    border-radius: 6px;
+    width: 49%;
+    margin-top: 30px;
+    box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.12);
+  }
+  .borderedLeft {
+    width: 49%;
+    margin-top: 30px;
+    @media (max-width: 996px) {
+      width: 100%;
+    }
+    &Styled {
+      border: 1px solid #dbdbdb;
+      border-radius: 6px;
+      box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.12);
+      &:first-child {
+        margin-bottom: 35px;
+      }
+    }
+  }
+}

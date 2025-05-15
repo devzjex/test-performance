@@ -1,0 +1,205 @@
+.detail-keys {
+  text-align: left;
+  .detail-key-body {
+    .container-title-body {
+      margin-top: 20px;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      .title {
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      .title-apps {
+        font-size: 18px;
+        color: #535353;
+      }
+      .link {
+        margin-top: 5px;
+      }
+      .sort_by {
+        display: flex;
+        gap: 15px;
+        align-items: flex-end;
+        margin-top: 10px;
+        flex-wrap: wrap;
+        .ant-space {
+          cursor: pointer;
+          &:hover {
+            color: #ffc225;
+          }
+          .anticon-down {
+            font-size: 13px;
+          }
+        }
+        .ant-select-single {
+          height: 39px;
+          &:focus-within {
+            .ant-select-selector {
+              border-color: #ffc225;
+            }
+          }
+          &:hover {
+            .ant-select-selector {
+              border-color: #ffc225;
+            }
+          }
+          .ant-select-selector {
+            padding: 10px 25px;
+            border-radius: 20px;
+            border: 1px solid #ccc;
+            color: #000000;
+            font-weight: 500;
+            cursor: pointer;
+          }
+        }
+        .select-label {
+          display: block;
+          font-size: 14px;
+          font-weight: 500;
+          margin-bottom: 4px;
+        }
+      }
+    }
+    .detail-key {
+      margin-top: 15px;
+      .title-column {
+        background-color: #f0f0f0;
+        padding: 10px 0 10px 20px;
+        .title-styled {
+          font-weight: 600;
+          font-size: 16px;
+        }
+      }
+      .item-detail {
+        padding: 13px 0 13px 10px;
+        border-top: 1px solid rgb(230, 230, 230);
+        .rank {
+          margin-top: 10px;
+          span {
+            border-radius: 10px;
+            background: #343a3f;
+            padding: 5px;
+            padding-left: 12px;
+            padding-right: 12px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+          }
+        }
+        .content-app {
+          display: flex;
+          .image {
+            img {
+              height: 75px;
+              width: 75px;
+              border-radius: 8px;
+              &:hover {
+                cursor: pointer;
+              }
+            }
+          }
+          .item-detail-app {
+            margin-left: 15px;
+            .name-app-shopify {
+              .calular-incre {
+                margin-right: 5px;
+                color: white;
+                background: #27a844;
+                border-radius: 6px;
+                padding: 3px;
+                font-size: 12px;
+              }
+              .calular-decre {
+                margin-right: 5px;
+                color: white;
+                background: #dc3544;
+                border-radius: 6px;
+                padding: 3px;
+                font-size: 12px;
+              }
+              .link-name {
+                font-size: 16px;
+                &:hover {
+                  text-decoration: underline;
+                }
+              }
+            }
+            .tagline {
+              margin-top: 5px;
+            }
+            .link-app-shopify {
+              margin-top: 5px;
+              &:hover {
+                color: #40a2f8;
+                text-decoration: underline;
+              }
+              .link {
+                color: black;
+                &:hover {
+                  color: #40a2f8;
+                }
+              }
+            }
+          }
+        }
+        .icon-star {
+          color: #d8aa34;
+          .calular-incre {
+            margin-left: 5px;
+            color: #ffffff;
+            background: #27a844;
+            border-radius: 6px;
+            padding: 3px;
+            font-size: 12px;
+          }
+          .calular-decre {
+            margin-left: 5px;
+            color: #ffffff;
+            background: #dc3544;
+            border-radius: 6px;
+            padding: 3px;
+            font-size: 12px;
+          }
+        }
+      }
+    }
+    .ant-table-thead > tr > th {
+      background-color: #d4d3d39f !important;
+      .ant-table-column-title {
+        font-weight: 500 !important;
+        color: #000000 !important;
+      }
+    }
+    .pagination {
+      display: flex;
+      justify-content: center;
+      margin-top: 30px;
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .detail-keys {
+    .detail-keys-body {
+      .container-title-body {
+        flex-direction: column;
+      }
+      .pagination {
+        margin-bottom: 20px;
+      }
+    }
+  }
+}
+@media (max-width: 500px) {
+  .detail-keys {
+    .detail-keys-body {
+      .pagination {
+        .ant-pagination-total-text {
+          display: none;
+        }
+      }
+    }
+  }
+}

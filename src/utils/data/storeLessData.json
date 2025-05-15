@@ -1,0 +1,1760 @@
+[
+  {
+    "_id": "/Adult",
+    "count": 12976
+  },
+  {
+    "_id": "/Antiques & Collectibles",
+    "count": 14818
+  },
+  {
+    "_id": "/Apparel",
+    "count": 363566,
+    "children": [
+      {
+        "_id": "/Apparel/Athletic Apparel",
+        "count": 22083
+      },
+      {
+        "_id": "/Apparel/Casual Apparel",
+        "count": 66194
+      },
+      {
+        "_id": "/Apparel/Children's Clothing",
+        "count": 17088
+      },
+      {
+        "_id": "/Apparel/Clothing Accessories",
+        "count": 156214
+      },
+      {
+        "_id": "/Apparel/Costumes",
+        "count": 2726
+      },
+      {
+        "_id": "/Apparel/Eyewear",
+        "count": 13132
+      },
+      {
+        "_id": "/Apparel/Footwear",
+        "count": 42669
+      },
+      {
+        "_id": "/Apparel/Formal Wear",
+        "count": 4571
+      },
+      {
+        "_id": "/Apparel/Headwear",
+        "count": 11320
+      },
+      {
+        "_id": "/Apparel/Men's Clothing",
+        "count": 13935
+      },
+      {
+        "_id": "/Apparel/Swimwear",
+        "count": 9150
+      },
+      {
+        "_id": "/Apparel/Undergarments",
+        "count": 10445
+      },
+      {
+        "_id": "/Apparel/Women's Clothing",
+        "count": 92052
+      }
+    ]
+  },
+  {
+    "_id": "/Arts & Entertainment",
+    "count": 729,
+    "children": [
+      {
+        "_id": "/Arts & Entertainment/Comics & Animation",
+        "count": 1879,
+        "children": [
+          {
+            "_id": "/Arts & Entertainment/Comics & Animation/Anime & Manga",
+            "count": 4143
+          },
+          {
+            "_id": "/Arts & Entertainment/Comics & Animation/Cartoons",
+            "count": 323
+          },
+          {
+            "_id": "/Arts & Entertainment/Comics & Animation/Comics",
+            "count": 3221
+          }
+        ]
+      },
+      {
+        "_id": "/Arts & Entertainment/Concerts & Music Festivals",
+        "count": 1987
+      },
+      {
+        "_id": "/Arts & Entertainment/Humor",
+        "count": 2926
+      },
+      {
+        "_id": "/Arts & Entertainment/Movies",
+        "count": 6843
+      },
+      {
+        "_id": "/Arts & Entertainment/Music & Audio",
+        "count": 42607,
+        "children": [
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Classical Music",
+            "count": 898
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Country Music",
+            "count": 691
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Dance & Electronic Music",
+            "count": 1991
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Jazz & Blues",
+            "count": 1252
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Music Education & Instruction",
+            "count": 3764
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Music Equipment & Technology",
+            "count": 13900
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Music Reference",
+            "count": 634
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Pop Music",
+            "count": 614
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Radio & Podcast",
+            "count": 2806
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Religious Music",
+            "count": 1526
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Rock Music",
+            "count": 7696
+          },
+          {
+            "_id": "/Arts & Entertainment/Music & Audio/Urban & Hip-Hop",
+            "count": 3145
+          }
+        ]
+      },
+      {
+        "_id": "/Arts & Entertainment/Performing Arts",
+        "count": 2602,
+        "children": [
+          {
+            "_id": "/Arts & Entertainment/Performing Arts/Acting & Theater",
+            "count": 1193
+          },
+          {
+            "_id": "/Arts & Entertainment/Performing Arts/Circus",
+            "count": 125
+          },
+          {
+            "_id": "/Arts & Entertainment/Performing Arts/Dance",
+            "count": 4731
+          },
+          {
+            "_id": "/Arts & Entertainment/Performing Arts/Magic",
+            "count": 649
+          }
+        ]
+      },
+      {
+        "_id": "/Arts & Entertainment/TV Shows & Programs",
+        "count": 6174
+      },
+      {
+        "_id": "/Arts & Entertainment/Visual Art & Design",
+        "count": 40686,
+        "children": [
+          {
+            "_id": "/Arts & Entertainment/Visual Art & Design/Architecture",
+            "count": 10731
+          },
+          {
+            "_id": "/Arts & Entertainment/Visual Art & Design/Art Museums & Galleries",
+            "count": 3508
+          },
+          {
+            "_id": "/Arts & Entertainment/Visual Art & Design/Design",
+            "count": 6102
+          },
+          {
+            "_id": "/Arts & Entertainment/Visual Art & Design/Painting",
+            "count": 12325
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Attractions",
+    "count": 0,
+    "children": [
+      {
+        "_id": "/Attractions/Regional Parks & Gardens",
+        "count": 878
+      },
+      {
+        "_id": "/Attractions/Theme Parks",
+        "count": 806
+      },
+      {
+        "_id": "/Attractions/Zoos, Aquariums & Preserves",
+        "count": 280
+      }
+    ]
+  },
+  {
+    "_id": "/Autos & Vehicles",
+    "count": 27012,
+    "children": [
+      {
+        "_id": "/Autos & Vehicles/Boats & Watercraft",
+        "count": 9519
+      },
+      {
+        "_id": "/Autos & Vehicles/Campers & RVs",
+        "count": 2420
+      },
+      {
+        "_id": "/Autos & Vehicles/Classic Vehicles",
+        "count": 500
+      },
+      {
+        "_id": "/Autos & Vehicles/Motor Vehicles",
+        "count": 1,
+        "children": [
+          {
+            "_id": "/Autos & Vehicles/Motor Vehicles/Electric & Alternative",
+            "count": 1595
+          },
+          {
+            "_id": "/Autos & Vehicles/Motor Vehicles/Motorcycles & Scooters",
+            "count": 9163
+          },
+          {
+            "_id": "/Autos & Vehicles/Motor Vehicles/Off-Road",
+            "count": 2936
+          },
+          {
+            "_id": "/Autos & Vehicles/Motor Vehicles/Trucks & SUVs",
+            "count": 2453
+          }
+        ]
+      },
+      {
+        "_id": "/Autos & Vehicles/Parts & Services",
+        "count": 62493
+      },
+      {
+        "_id": "/Autos & Vehicles/Repair & Maintenance",
+        "count": 8124
+      },
+      {
+        "_id": "/Autos & Vehicles/Safety",
+        "count": 831
+      }
+    ]
+  },
+  {
+    "_id": "/Beauty & Fitness",
+    "count": 35725,
+    "children": [
+      {
+        "_id": "/Beauty & Fitness/Body Art",
+        "count": 5567
+      },
+      {
+        "_id": "/Beauty & Fitness/Cosmetic Procedures",
+        "count": 6794
+      },
+      {
+        "_id": "/Beauty & Fitness/Face & Body Care",
+        "count": 55972,
+        "children": [
+          {
+            "_id": "/Beauty & Fitness/Face & Body Care/Hygiene & Toiletries",
+            "count": 9264
+          },
+          {
+            "_id": "/Beauty & Fitness/Face & Body Care/Make-Up & Cosmetics",
+            "count": 36389
+          },
+          {
+            "_id": "/Beauty & Fitness/Face & Body Care/Perfumes & Fragrances",
+            "count": 19098
+          },
+          {
+            "_id": "/Beauty & Fitness/Face & Body Care/Shaving & Hair Removal",
+            "count": 3860
+          },
+          {
+            "_id": "/Beauty & Fitness/Face & Body Care/Skin & Nail Care",
+            "count": 60386
+          }
+        ]
+      },
+      {
+        "_id": "/Beauty & Fitness/Fitness",
+        "count": 43021
+      },
+      {
+        "_id": "/Beauty & Fitness/Hair Care",
+        "count": 53167,
+        "children": [
+          {
+            "_id": "/Beauty & Fitness/Hair Care/Hair Loss",
+            "count": 2504
+          }
+        ]
+      },
+      {
+        "_id": "/Beauty & Fitness/Spas & Beauty Services",
+        "count": 11042,
+        "children": [
+          {
+            "_id": "/Beauty & Fitness/Spas & Beauty Services/Massage Therapy",
+            "count": 7109
+          }
+        ]
+      },
+      {
+        "_id": "/Beauty & Fitness/Weight Loss",
+        "count": 6630
+      }
+    ]
+  },
+  {
+    "_id": "/Books & Literature",
+    "count": 36443,
+    "children": [
+      {
+        "_id": "/Books & Literature/Calendars",
+        "count": 251
+      },
+      {
+        "_id": "/Books & Literature/Children's Literature",
+        "count": 2468
+      },
+      {
+        "_id": "/Books & Literature/E-Books",
+        "count": 1421
+      },
+      {
+        "_id": "/Books & Literature/Geographic Reference",
+        "count": 1105
+      },
+      {
+        "_id": "/Books & Literature/Language",
+        "count": 383
+      },
+      {
+        "_id": "/Books & Literature/Notebooks & Planners",
+        "count": 2513
+      },
+      {
+        "_id": "/Books & Literature/Poetry",
+        "count": 1313
+      },
+      {
+        "_id": "/Books & Literature/Writers Resources",
+        "count": 3265
+      }
+    ]
+  },
+  {
+    "_id": "/Business & Industrial",
+    "count": 4,
+    "children": [
+      {
+        "_id": "/Business & Industrial/Advertising & Marketing",
+        "count": 0,
+        "children": [
+          {
+            "_id": "/Business & Industrial/Advertising & Marketing/Public Relations",
+            "count": 539
+          }
+        ]
+      },
+      {
+        "_id": "/Business & Industrial/Agriculture & Forestry",
+        "count": 19910,
+        "children": [
+          {
+            "_id": "/Business & Industrial/Agriculture & Forestry/Agricultural Equipment",
+            "count": 2262
+          },
+          {
+            "_id": "/Business & Industrial/Agriculture & Forestry/Beekeeping",
+            "count": 1337
+          },
+          {
+            "_id": "/Business & Industrial/Agriculture & Forestry/Livestock",
+            "count": 2389
+          },
+          {
+            "_id": "/Business & Industrial/Agriculture & Forestry/Wood & Forestry",
+            "count": 989
+          }
+        ]
+      },
+      {
+        "_id": "/Business & Industrial/Business Finance",
+        "count": 1686
+      },
+      {
+        "_id": "/Business & Industrial/Business Operations",
+        "count": 19751
+      },
+      {
+        "_id": "/Business & Industrial/Business Services",
+        "count": 33605,
+        "children": [
+          {
+            "_id": "/Business & Industrial/Business Services/Consulting",
+            "count": 2612
+          },
+          {
+            "_id": "/Business & Industrial/Business Services/Corporate Events",
+            "count": 2880
+          },
+          {
+            "_id": "/Business & Industrial/Business Services/E-Commerce Services",
+            "count": 5325
+          },
+          {
+            "_id": "/Business & Industrial/Business Services/Office Services",
+            "count": 1310
+          },
+          {
+            "_id": "/Business & Industrial/Business Services/Office Supplies",
+            "count": 19489
+          },
+          {
+            "_id": "/Business & Industrial/Business Services/Writing & Editing Services",
+            "count": 620
+          }
+        ]
+      },
+      {
+        "_id": "/Business & Industrial/Chemicals Industry",
+        "count": 12194,
+        "children": [
+          {
+            "_id": "/Business & Industrial/Chemicals Industry/Plastics & Polymers",
+            "count": 4039
+          }
+        ]
+      },
+      {
+        "_id": "/Business & Industrial/Construction & Maintenance",
+        "count": 18054
+      },
+      {
+        "_id": "/Business & Industrial/Industrial Materials & Equipment",
+        "count": 21070,
+        "children": [
+          {
+            "_id": "/Business & Industrial/Industrial Materials & Equipment/Heavy Machinery",
+            "count": 6203
+          }
+        ]
+      },
+      {
+        "_id": "/Business & Industrial/Mail & Package Delivery",
+        "count": 3433
+      },
+      {
+        "_id": "/Business & Industrial/Manufacturing",
+        "count": 6480
+      },
+      {
+        "_id": "/Business & Industrial/Metals & Mining",
+        "count": 5661,
+        "children": [
+          {
+            "_id": "/Business & Industrial/Metals & Mining/Precious Metals",
+            "count": 2223
+          }
+        ]
+      },
+      {
+        "_id": "/Business & Industrial/Moving & Relocation",
+        "count": 2378
+      },
+      {
+        "_id": "/Business & Industrial/Packaging",
+        "count": 5572
+      },
+      {
+        "_id": "/Business & Industrial/Pharmaceuticals & Biotech",
+        "count": 5369
+      },
+      {
+        "_id": "/Business & Industrial/Printing & Publishing",
+        "count": 4
+      },
+      {
+        "_id": "/Business & Industrial/Renewable & Alternative Energy",
+        "count": 7472
+      },
+      {
+        "_id": "/Business & Industrial/Retail Equipment & Technology",
+        "count": 3211
+      }
+    ]
+  },
+  {
+    "_id": "/Computers",
+    "count": 47284,
+    "children": [
+      {
+        "_id": "/Computers/CAD & CAM",
+        "count": 1092
+      },
+      {
+        "_id": "/Computers/Computer Hardware",
+        "count": 10486,
+        "children": [
+          {
+            "_id": "/Computers/Computer Hardware/Computer Components",
+            "count": 480
+          },
+          {
+            "_id": "/Computers/Computer Hardware/Computer Drives & Storage",
+            "count": 978
+          },
+          {
+            "_id": "/Computers/Computer Hardware/Computer Peripherals",
+            "count": 6909
+          },
+          {
+            "_id": "/Computers/Computer Hardware/Desktop Computers",
+            "count": 1382
+          },
+          {
+            "_id": "/Computers/Computer Hardware/Laptops & Notebooks",
+            "count": 4249
+          }
+        ]
+      },
+      {
+        "_id": "/Computers/Computer Security",
+        "count": 3059,
+        "children": [
+          {
+            "_id": "/Computers/Computer Security/Hacking & Cracking",
+            "count": 229
+          }
+        ]
+      },
+      {
+        "_id": "/Computers/Electronics & Electrical",
+        "count": 10017,
+        "children": [
+          {
+            "_id": "/Computers/Electronics & Electrical/Electronic Components",
+            "count": 3131
+          },
+          {
+            "_id": "/Computers/Electronics & Electrical/Power Supplies",
+            "count": 4955
+          }
+        ]
+      },
+      {
+        "_id": "/Computers/Game Systems & Consoles",
+        "count": 1364
+      },
+      {
+        "_id": "/Computers/Networking",
+        "count": 2724
+      },
+      {
+        "_id": "/Computers/Software",
+        "count": 8890,
+        "children": [
+          {
+            "_id": "/Computers/Software/Business & Productivity Software",
+            "count": 6872
+          },
+          {
+            "_id": "/Computers/Software/Multimedia Software",
+            "count": 5376
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Consumer Electronics",
+    "count": 34565,
+    "children": [
+      {
+        "_id": "/Consumer Electronics/Audio Equipment",
+        "count": 10521
+      },
+      {
+        "_id": "/Consumer Electronics/Camera & Photo Equipment",
+        "count": 7006
+      },
+      {
+        "_id": "/Consumer Electronics/Car Electronics",
+        "count": 1639
+      },
+      {
+        "_id": "/Consumer Electronics/Drones & RC Aircraft",
+        "count": 2499
+      },
+      {
+        "_id": "/Consumer Electronics/GPS & Navigation",
+        "count": 1145
+      },
+      {
+        "_id": "/Consumer Electronics/Mobile & Wireless",
+        "count": 7950,
+        "children": [
+          {
+            "_id": "/Consumer Electronics/Mobile & Wireless/Mobile & Wireless Accessories",
+            "count": 12162
+          },
+          {
+            "_id": "/Consumer Electronics/Mobile & Wireless/Mobile Apps & Add-Ons",
+            "count": 2098
+          },
+          {
+            "_id": "/Consumer Electronics/Mobile & Wireless/Mobile Phones",
+            "count": 9761
+          }
+        ]
+      },
+      {
+        "_id": "/Consumer Electronics/Radio & Communications",
+        "count": 1330
+      },
+      {
+        "_id": "/Consumer Electronics/TV & Video Equipment",
+        "count": 5818
+      }
+    ]
+  },
+  {
+    "_id": "/Coupons & Discounts",
+    "count": 1538
+  },
+  {
+    "_id": "/Finance",
+    "count": 7559,
+    "children": [
+      {
+        "_id": "/Finance/Accounting & Auditing",
+        "count": 5436
+      },
+      {
+        "_id": "/Finance/Investing",
+        "count": 11399,
+        "children": [
+          {
+            "_id": "/Finance/Investing/Currencies & Foreign Exchange",
+            "count": 4956
+          },
+          {
+            "_id": "/Finance/Investing/Stocks & Bonds",
+            "count": 290
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Firearms & Weapons",
+    "count": 1940
+  },
+  {
+    "_id": "/Food & Drink",
+    "count": 61189,
+    "children": [
+      {
+        "_id": "/Food & Drink/Beverages",
+        "count": 11661,
+        "children": [
+          {
+            "_id": "/Food & Drink/Beverages/Alcoholic Beverages",
+            "count": 28929
+          },
+          {
+            "_id": "/Food & Drink/Beverages/Coffee & Tea",
+            "count": 40262
+          },
+          {
+            "_id": "/Food & Drink/Beverages/Juice",
+            "count": 3811
+          },
+          {
+            "_id": "/Food & Drink/Beverages/Soft Drinks",
+            "count": 766
+          }
+        ]
+      },
+      {
+        "_id": "/Food & Drink/Food",
+        "count": 101837,
+        "children": [
+          {
+            "_id": "/Food & Drink/Food/Baked Goods & Dessert",
+            "count": 139
+          },
+          {
+            "_id": "/Food & Drink/Food/Baked Goods & Desserts",
+            "count": 17341
+          },
+          {
+            "_id": "/Food & Drink/Food/BBQ & Grilling",
+            "count": 1606
+          },
+          {
+            "_id": "/Food & Drink/Food/Breakfast Foods",
+            "count": 800
+          },
+          {
+            "_id": "/Food & Drink/Food/Candy & Sweets",
+            "count": 10340
+          },
+          {
+            "_id": "/Food & Drink/Food/Grains & Pasta",
+            "count": 893
+          },
+          {
+            "_id": "/Food & Drink/Food/Meat & Seafood",
+            "count": 12118
+          },
+          {
+            "_id": "/Food & Drink/Food/Pizza",
+            "count": 3252
+          },
+          {
+            "_id": "/Food & Drink/Food/Snack Foods",
+            "count": 7632
+          },
+          {
+            "_id": "/Food & Drink/Food/Soups & Stews",
+            "count": 868
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Games",
+    "count": 13290,
+    "children": [
+      {
+        "_id": "/Games/Arcade & Coin-Op Games",
+        "count": 615
+      },
+      {
+        "_id": "/Games/Board Games",
+        "count": 1098,
+        "children": [
+          {
+            "_id": "/Games/Board Games/Chess & Abstract Strategy Games",
+            "count": 630
+          },
+          {
+            "_id": "/Games/Board Games/Miniatures & Wargaming",
+            "count": 1235
+          }
+        ]
+      },
+      {
+        "_id": "/Games/Card Games",
+        "count": 825,
+        "children": [
+          {
+            "_id": "/Games/Card Games/Collectible Card Games",
+            "count": 3440
+          },
+          {
+            "_id": "/Games/Card Games/Poker & Casino Games",
+            "count": 751
+          }
+        ]
+      },
+      {
+        "_id": "/Games/Computer & Video Games",
+        "count": 11395,
+        "children": [
+          {
+            "_id": "/Games/Computer & Video Games/Shooter Games",
+            "count": 413
+          },
+          {
+            "_id": "/Games/Computer & Video Games/Simulation Games",
+            "count": 369
+          },
+          {
+            "_id": "/Games/Computer & Video Games/Sports Games",
+            "count": 300
+          }
+        ]
+      },
+      {
+        "_id": "/Games/Puzzles & Brainteasers",
+        "count": 1622
+      },
+      {
+        "_id": "/Games/Roleplaying Games",
+        "count": 2950
+      },
+      {
+        "_id": "/Games/Table Games",
+        "count": 568,
+        "children": [
+          {
+            "_id": "/Games/Table Games/Billiards",
+            "count": 907
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Gifts & Special Events",
+    "count": 45202,
+    "children": [
+      {
+        "_id": "/Gifts & Special Events/Cards & Greetings",
+        "count": 4510
+      },
+      {
+        "_id": "/Gifts & Special Events/Flowers",
+        "count": 15364
+      }
+    ]
+  },
+  {
+    "_id": "/Health",
+    "count": 37595,
+    "children": [
+      {
+        "_id": "/Health/Aging & Geriatrics",
+        "count": 1145
+      },
+      {
+        "_id": "/Health/Health Conditions",
+        "count": 8133,
+        "children": [
+          {
+            "_id": "/Health/Health Conditions/AIDS & HIV",
+            "count": 122
+          },
+          {
+            "_id": "/Health/Health Conditions/Allergies",
+            "count": 285
+          },
+          {
+            "_id": "/Health/Health Conditions/Arthritis",
+            "count": 164
+          },
+          {
+            "_id": "/Health/Health Conditions/Cancer",
+            "count": 1866
+          },
+          {
+            "_id": "/Health/Health Conditions/Diabetes",
+            "count": 902
+          },
+          {
+            "_id": "/Health/Health Conditions/Ear Nose & Throat",
+            "count": 883
+          },
+          {
+            "_id": "/Health/Health Conditions/Heart & Hypertension",
+            "count": 609
+          },
+          {
+            "_id": "/Health/Health Conditions/Pain Management",
+            "count": 3598
+          },
+          {
+            "_id": "/Health/Health Conditions/Respiratory Conditions",
+            "count": 258
+          },
+          {
+            "_id": "/Health/Health Conditions/Skin Conditions",
+            "count": 1951
+          },
+          {
+            "_id": "/Health/Health Conditions/Sleep Disorders",
+            "count": 1769
+          }
+        ]
+      },
+      {
+        "_id": "/Health/Health Education & Medical Training",
+        "count": 4823
+      },
+      {
+        "_id": "/Health/Medical Devices & Equipment",
+        "count": 16445
+      },
+      {
+        "_id": "/Health/Medical Services",
+        "count": 7767,
+        "children": [
+          {
+            "_id": "/Health/Medical Services/Physical Therapy",
+            "count": 2746
+          }
+        ]
+      },
+      {
+        "_id": "/Health/Men's Health",
+        "count": 967
+      },
+      {
+        "_id": "/Health/Mental Health",
+        "count": 2781,
+        "children": [
+          {
+            "_id": "/Health/Mental Health/Anxiety & Stress",
+            "count": 1132
+          }
+        ]
+      },
+      {
+        "_id": "/Health/Nursing",
+        "count": 1395,
+        "children": [
+          {
+            "_id": "/Health/Nursing/Assisted Living & Long Term Care",
+            "count": 2640
+          }
+        ]
+      },
+      {
+        "_id": "/Health/Nutrition",
+        "count": 10608,
+        "children": [
+          {
+            "_id": "/Health/Nutrition/Special & Restricted Diets",
+            "count": 2876
+          },
+          {
+            "_id": "/Health/Nutrition/Vitamins & Supplements",
+            "count": 40853
+          }
+        ]
+      },
+      {
+        "_id": "/Health/Occupational Health & Safety",
+        "count": 5046
+      },
+      {
+        "_id": "/Health/Oral & Dental Care",
+        "count": 11097
+      },
+      {
+        "_id": "/Health/Pharmacy",
+        "count": 3064,
+        "children": [
+          {
+            "_id": "/Health/Pharmacy/Drugs & Medications",
+            "count": 4498
+          }
+        ]
+      },
+      {
+        "_id": "/Health/Reproductive Health",
+        "count": 8376
+      },
+      {
+        "_id": "/Health/Social Services",
+        "count": 5105
+      },
+      {
+        "_id": "/Health/Substance Abuse",
+        "count": 0,
+        "children": [
+          {
+            "_id": "/Health/Substance Abuse/Drug & Alcohol Testing",
+            "count": 298
+          },
+          {
+            "_id": "/Health/Substance Abuse/Drug & Alcohol Treatment",
+            "count": 776
+          }
+        ]
+      },
+      {
+        "_id": "/Health/Vision Care",
+        "count": 2353,
+        "children": [
+          {
+            "_id": "/Health/Vision Care/Eyeglasses & Contacts",
+            "count": 6354
+          }
+        ]
+      },
+      {
+        "_id": "/Health/Women's Health",
+        "count": 5544
+      }
+    ]
+  },
+  {
+    "_id": "/Holidays & Seasonal",
+    "count": 10323
+  },
+  {
+    "_id": "/Home & Garden",
+    "count": 107975,
+    "children": [
+      {
+        "_id": "/Home & Garden/Bed & Bath",
+        "count": 20296,
+        "children": [
+          {
+            "_id": "/Home & Garden/Bed & Bath/Bathroom",
+            "count": 8248
+          }
+        ]
+      },
+      {
+        "_id": "/Home & Garden/Cleaning",
+        "count": 12818
+      },
+      {
+        "_id": "/Home & Garden/Gardening & Landscaping",
+        "count": 32594
+      },
+      {
+        "_id": "/Home & Garden/Home & Interior Decor",
+        "count": 62742
+      },
+      {
+        "_id": "/Home & Garden/Home Appliances",
+        "count": 23028
+      },
+      {
+        "_id": "/Home & Garden/Home Furnishings",
+        "count": 50492,
+        "children": [
+          {
+            "_id": "/Home & Garden/Home Furnishings/Curtains & Window Treatments",
+            "count": 3422
+          },
+          {
+            "_id": "/Home & Garden/Home Furnishings/Kitchen & Dining Furniture",
+            "count": 491
+          },
+          {
+            "_id": "/Home & Garden/Home Furnishings/Lamps & Lighting",
+            "count": 19141
+          },
+          {
+            "_id": "/Home & Garden/Home Furnishings/Living Room Furniture",
+            "count": 9158
+          },
+          {
+            "_id": "/Home & Garden/Home Furnishings/Rugs & Carpets",
+            "count": 8164
+          }
+        ]
+      },
+      {
+        "_id": "/Home & Garden/Home Improvement",
+        "count": 38759,
+        "children": [
+          {
+            "_id": "/Home & Garden/Home Improvement/Construction & Power Tools",
+            "count": 7632
+          },
+          {
+            "_id": "/Home & Garden/Home Improvement/Doors & Windows",
+            "count": 5801
+          },
+          {
+            "_id": "/Home & Garden/Home Improvement/Flooring",
+            "count": 6064
+          },
+          {
+            "_id": "/Home & Garden/Home Improvement/House Painting & Finishing",
+            "count": 3054
+          },
+          {
+            "_id": "/Home & Garden/Home Improvement/Plumbing",
+            "count": 9510
+          }
+        ]
+      },
+      {
+        "_id": "/Home & Garden/Home Safety & Security",
+        "count": 4293
+      },
+      {
+        "_id": "/Home & Garden/Home Storage & Shelving",
+        "count": 5871
+      },
+      {
+        "_id": "/Home & Garden/Home Swimming Pools Saunas & Spas",
+        "count": 4953
+      },
+      {
+        "_id": "/Home & Garden/HVAC & Climate Control",
+        "count": 12541,
+        "children": [
+          {
+            "_id": "/Home & Garden/HVAC & Climate Control/Fireplaces & Stoves",
+            "count": 2329
+          }
+        ]
+      },
+      {
+        "_id": "/Home & Garden/Kitchen & Dining",
+        "count": 15847,
+        "children": [
+          {
+            "_id": "/Home & Garden/Kitchen & Dining/Cookware & Diningware",
+            "count": 21593
+          },
+          {
+            "_id": "/Home & Garden/Kitchen & Dining/Small Kitchen Appliances",
+            "count": 5527
+          }
+        ]
+      },
+      {
+        "_id": "/Home & Garden/Laundry",
+        "count": 2089
+      },
+      {
+        "_id": "/Home & Garden/Nursery & Playroom",
+        "count": 23281
+      },
+      {
+        "_id": "/Home & Garden/Pest Control",
+        "count": 3284
+      },
+      {
+        "_id": "/Home & Garden/Yard & Patio",
+        "count": 17057
+      }
+    ]
+  },
+  {
+    "_id": "/Internet",
+    "count": 10448,
+    "children": [
+      {
+        "_id": "/Internet/Voice & Video Chat",
+        "count": 589
+      },
+      {
+        "_id": "/Internet/Web Services",
+        "count": 21789,
+        "children": [
+          {
+            "_id": "/Internet/Web Services/Web Design & Development",
+            "count": 24895
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Jobs & Education",
+    "count": 6365,
+    "children": [
+      {
+        "_id": "/Jobs & Education/Business",
+        "count": 1323
+      },
+      {
+        "_id": "/Jobs & Education/Education",
+        "count": 64739,
+        "children": [
+          {
+            "_id": "/Jobs & Education/Education/Colleges & Universities",
+            "count": 10553
+          },
+          {
+            "_id": "/Jobs & Education/Education/Distance Learning",
+            "count": 3986
+          },
+          {
+            "_id": "/Jobs & Education/Education/Homeschooling",
+            "count": 814
+          },
+          {
+            "_id": "/Jobs & Education/Education/Languages",
+            "count": 4823
+          },
+          {
+            "_id": "/Jobs & Education/Education/Legal Education",
+            "count": 480
+          },
+          {
+            "_id": "/Jobs & Education/Education/Primary & Secondary Schooling (K-12)",
+            "count": 6707
+          },
+          {
+            "_id": "/Jobs & Education/Education/Standardized & Admissions Tests",
+            "count": 3663
+          },
+          {
+            "_id": "/Jobs & Education/Education/Teaching & Classroom Resources",
+            "count": 4469
+          },
+          {
+            "_id": "/Jobs & Education/Education/Training & Certification",
+            "count": 7497
+          },
+          {
+            "_id": "/Jobs & Education/Education/Vocational & Continuing Education",
+            "count": 2327
+          }
+        ]
+      },
+      {
+        "_id": "/Jobs & Education/Health",
+        "count": 4823
+      },
+      {
+        "_id": "/Jobs & Education/Jobs",
+        "count": 0,
+        "children": [
+          {
+            "_id": "/Jobs & Education/Jobs/Career Resources & Planning",
+            "count": 3561
+          },
+          {
+            "_id": "/Jobs & Education/Jobs/Job Listings",
+            "count": 6986
+          },
+          {
+            "_id": "/Jobs & Education/Jobs/Resumes & Portfolios",
+            "count": 889
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Legal Services",
+    "count": 5571,
+    "children": [
+      {
+        "_id": "/Legal Services/Visa & Immigration",
+        "count": 2360
+      }
+    ]
+  },
+  {
+    "_id": "/Libraries & Museums",
+    "count": 2441
+  },
+  {
+    "_id": "/Mass Merchants & Department Stores",
+    "count": 1215
+  },
+  {
+    "_id": "/People & Society",
+    "count": 57706,
+    "children": [
+      {
+        "_id": "/People & Society/Family & Relationships",
+        "count": 4684,
+        "children": [
+          {
+            "_id": "/People & Society/Family & Relationships/Family",
+            "count": 31862
+          },
+          {
+            "_id": "/People & Society/Family & Relationships/Marriage",
+            "count": 15568
+          },
+          {
+            "_id": "/People & Society/Family & Relationships/Troubled Relationships",
+            "count": 644
+          }
+        ]
+      },
+      {
+        "_id": "/People & Society/Kids & Teens",
+        "count": 4950
+      },
+      {
+        "_id": "/People & Society/Politics",
+        "count": 2742
+      },
+      {
+        "_id": "/People & Society/Religion & Belief",
+        "count": 77683
+      },
+      {
+        "_id": "/People & Society/Social Issues & Advocacy",
+        "count": 12085,
+        "children": [
+          {
+            "_id": "/People & Society/Social Issues & Advocacy/Charity & Philanthropy",
+            "count": 14053
+          },
+          {
+            "_id": "/People & Society/Social Issues & Advocacy/Green Living & Environmental Issues",
+            "count": 4338
+          }
+        ]
+      },
+      {
+        "_id": "/People & Society/Social Networks",
+        "count": 4035
+      },
+      {
+        "_id": "/People & Society/Subcultures & Niche Interests",
+        "count": 384
+      }
+    ]
+  },
+  {
+    "_id": "/Pets & Animals",
+    "count": 11358,
+    "children": [
+      {
+        "_id": "/Pets & Animals/Birds",
+        "count": 1323
+      },
+      {
+        "_id": "/Pets & Animals/Cats",
+        "count": 5428
+      },
+      {
+        "_id": "/Pets & Animals/Dogs",
+        "count": 26872
+      },
+      {
+        "_id": "/Pets & Animals/Exotic Pets",
+        "count": 134
+      },
+      {
+        "_id": "/Pets & Animals/Fish & Aquaria",
+        "count": 3258
+      },
+      {
+        "_id": "/Pets & Animals/Horses",
+        "count": 3766
+      },
+      {
+        "_id": "/Pets & Animals/Pet Food & Supplies",
+        "count": 43335
+      },
+      {
+        "_id": "/Pets & Animals/Rabbits & Rodents",
+        "count": 310
+      },
+      {
+        "_id": "/Pets & Animals/Reptiles & Amphibians",
+        "count": 824
+      },
+      {
+        "_id": "/Pets & Animals/Veterinary & Health",
+        "count": 2755
+      }
+    ]
+  },
+  {
+    "_id": "/Photo & Video Services",
+    "count": 10990
+  },
+  {
+    "_id": "/Safety & Survival",
+    "count": 4406,
+    "children": [
+      {
+        "_id": "/Safety & Survival/Military",
+        "count": 3462
+      },
+      {
+        "_id": "/Safety & Survival/Safety",
+        "count": 7356,
+        "children": [
+          {
+            "_id": "/Safety & Survival/Safety/Law Enforcement",
+            "count": 807
+          },
+          {
+            "_id": "/Safety & Survival/Safety/Rescue & Emergency",
+            "count": 3386
+          },
+          {
+            "_id": "/Safety & Survival/Safety/Security Products",
+            "count": 9691
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Science",
+    "count": 10764,
+    "children": [
+      {
+        "_id": "/Science/Astronomy",
+        "count": 812
+      },
+      {
+        "_id": "/Science/Biological Sciences",
+        "count": 2333,
+        "children": [
+          {
+            "_id": "/Science/Biological Sciences/Neuroscience",
+            "count": 2553
+          }
+        ]
+      },
+      {
+        "_id": "/Science/Chemistry",
+        "count": 341
+      },
+      {
+        "_id": "/Science/Computer Science",
+        "count": 6566
+      },
+      {
+        "_id": "/Science/Earth Sciences",
+        "count": 880,
+        "children": [
+          {
+            "_id": "/Science/Earth Sciences/Geology",
+            "count": 321
+          }
+        ]
+      },
+      {
+        "_id": "/Science/Ecology & Environment",
+        "count": 847
+      },
+      {
+        "_id": "/Science/Engineering & Technology",
+        "count": 5639,
+        "children": [
+          {
+            "_id": "/Science/Engineering & Technology/Robotics",
+            "count": 1165
+          }
+        ]
+      },
+      {
+        "_id": "/Science/Mathematics",
+        "count": 1173,
+        "children": [
+          {
+            "_id": "/Science/Mathematics/Statistics",
+            "count": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Smoking & Vaping",
+    "count": 14931,
+    "children": [
+      {
+        "_id": "/Smoking & Vaping/Cannabis",
+        "count": 2000
+      }
+    ]
+  },
+  {
+    "_id": "/Sports",
+    "count": 18404,
+    "children": [
+      {
+        "_id": "/Sports/Animal Sports",
+        "count": 386
+      },
+      {
+        "_id": "/Sports/College Sports",
+        "count": 956
+      },
+      {
+        "_id": "/Sports/Combat Sports",
+        "count": 1436,
+        "children": [
+          {
+            "_id": "/Sports/Combat Sports/Boxing",
+            "count": 1153
+          },
+          {
+            "_id": "/Sports/Combat Sports/Martial Arts",
+            "count": 5204
+          },
+          {
+            "_id": "/Sports/Combat Sports/Wrestling",
+            "count": 623
+          }
+        ]
+      },
+      {
+        "_id": "/Sports/Extreme Sports",
+        "count": 1740,
+        "children": [
+          {
+            "_id": "/Sports/Extreme Sports/Drag & Street Racing",
+            "count": 52
+          }
+        ]
+      },
+      {
+        "_id": "/Sports/Fantasy Sports",
+        "count": 395
+      },
+      {
+        "_id": "/Sports/Individual Sports",
+        "count": 5765,
+        "children": [
+          {
+            "_id": "/Sports/Individual Sports/Cycling",
+            "count": 17911
+          },
+          {
+            "_id": "/Sports/Individual Sports/Golf",
+            "count": 11601
+          },
+          {
+            "_id": "/Sports/Individual Sports/Gymnastics",
+            "count": 613
+          },
+          {
+            "_id": "/Sports/Individual Sports/Racquet Sports",
+            "count": 4410
+          },
+          {
+            "_id": "/Sports/Individual Sports/Skate Sports",
+            "count": 3547
+          },
+          {
+            "_id": "/Sports/Individual Sports/Track & Field",
+            "count": 91
+          }
+        ]
+      },
+      {
+        "_id": "/Sports/Motor Sports",
+        "count": 3399
+      },
+      {
+        "_id": "/Sports/Sporting Goods",
+        "count": 54979,
+        "children": [
+          {
+            "_id": "/Sports/Sporting Goods/Fishing",
+            "count": 9552
+          },
+          {
+            "_id": "/Sports/Sporting Goods/Hiking & Camping",
+            "count": 7042
+          },
+          {
+            "_id": "/Sports/Sporting Goods/Outdoors",
+            "count": 18038
+          },
+          {
+            "_id": "/Sports/Sporting Goods/Sports Memorabilia",
+            "count": 2250
+          }
+        ]
+      },
+      {
+        "_id": "/Sports/Sports Coaching & Training",
+        "count": 4452
+      },
+      {
+        "_id": "/Sports/Team Sports",
+        "count": 7064,
+        "children": [
+          {
+            "_id": "/Sports/Team Sports/American Football",
+            "count": 2529
+          },
+          {
+            "_id": "/Sports/Team Sports/Australian Football",
+            "count": 120
+          },
+          {
+            "_id": "/Sports/Team Sports/Baseball",
+            "count": 3456
+          },
+          {
+            "_id": "/Sports/Team Sports/Basketball",
+            "count": 2586
+          },
+          {
+            "_id": "/Sports/Team Sports/Cheerleading",
+            "count": 420
+          },
+          {
+            "_id": "/Sports/Team Sports/Cricket",
+            "count": 1387
+          },
+          {
+            "_id": "/Sports/Team Sports/Hockey",
+            "count": 1845
+          },
+          {
+            "_id": "/Sports/Team Sports/Rugby",
+            "count": 740
+          },
+          {
+            "_id": "/Sports/Team Sports/Soccer",
+            "count": 5104
+          },
+          {
+            "_id": "/Sports/Team Sports/Volleyball",
+            "count": 435
+          }
+        ]
+      },
+      {
+        "_id": "/Sports/Trophies and Awards",
+        "count": 1585
+      },
+      {
+        "_id": "/Sports/Water Sports",
+        "count": 5271,
+        "children": [
+          {
+            "_id": "/Sports/Water Sports/Surfing",
+            "count": 3092
+          },
+          {
+            "_id": "/Sports/Water Sports/Swimming",
+            "count": 4166
+          }
+        ]
+      },
+      {
+        "_id": "/Sports/Winter Sports",
+        "count": 2281,
+        "children": [
+          {
+            "_id": "/Sports/Winter Sports/Ice Skating",
+            "count": 344
+          },
+          {
+            "_id": "/Sports/Winter Sports/Skiing & Snowboarding",
+            "count": 2337
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "/Toys & Hobbies",
+    "count": 26353,
+    "children": [
+      {
+        "_id": "/Toys & Hobbies/Arts & Crafts",
+        "count": 50340,
+        "children": [
+          {
+            "_id": "/Toys & Hobbies/Arts & Crafts/Fiber & Textile Arts",
+            "count": 18643
+          }
+        ]
+      },
+      {
+        "_id": "/Toys & Hobbies/Building Toys",
+        "count": 952
+      },
+      {
+        "_id": "/Toys & Hobbies/Die-cast & Toy Vehicles",
+        "count": 576
+      },
+      {
+        "_id": "/Toys & Hobbies/Dolls",
+        "count": 1622
+      },
+      {
+        "_id": "/Toys & Hobbies/Drawing & Coloring",
+        "count": 381
+      },
+      {
+        "_id": "/Toys & Hobbies/Radio Control & Modeling",
+        "count": 5269,
+        "children": [
+          {
+            "_id": "/Toys & Hobbies/Radio Control & Modeling/Model Trains & Railroads",
+            "count": 592
+          }
+        ]
+      },
+      {
+        "_id": "/Toys & Hobbies/Ride-On Toys",
+        "count": 357
+      },
+      {
+        "_id": "/Toys & Hobbies/Stuffed Toys",
+        "count": 1655
+      }
+    ]
+  },
+  {
+    "_id": "/Travel",
+    "count": 43233,
+    "children": [
+      {
+        "_id": "/Travel/Air Travel",
+        "count": 4538,
+        "children": [
+          {
+            "_id": "/Travel/Air Travel/Airport Parking & Transportation",
+            "count": 2263
+          }
+        ]
+      },
+      {
+        "_id": "/Travel/Bags & Luggage",
+        "count": 1
+      },
+      {
+        "_id": "/Travel/Bus & Rail",
+        "count": 876
+      },
+      {
+        "_id": "/Travel/Car Rental & Taxi Services",
+        "count": 6901
+      },
+      {
+        "_id": "/Travel/Cruises & Charters",
+        "count": 2283
+      },
+      {
+        "_id": "/Travel/Hotels & Accommodations",
+        "count": 18604
+      }
+    ]
+  },
+  {
+    "_id": "/Wedding",
+    "count": 15972
+  }
+]

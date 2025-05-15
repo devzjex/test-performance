@@ -1,0 +1,382 @@
+.layoutLandingPage {
+  background-color: #ffffff;
+  .wrapperButton {
+    background-color: rgba(255, 194, 37, 1) !important;
+    border-color: rgba(255, 194, 37, 1) !important;
+    color: rgba(67, 77, 86, 1) !important;
+    border-radius: 20px !important;
+    margin: 28px 0 !important;
+    font-size: 15px !important;
+    height: 40px !important;
+    box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+    span {
+      font-weight: 500;
+    }
+    &:hover {
+      transform: translateY(-7px);
+    }
+  }
+  .wrapperLink {
+    background-color: rgba(255, 194, 37, 1);
+    border-color: rgba(255, 194, 37, 1);
+    color: rgba(67, 77, 86, 1);
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: 500;
+    box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+    span {
+      font-weight: 500;
+    }
+    &:hover {
+      transform: translateY(-7px);
+    }
+  }
+  &Intro {
+    height: max-content;
+    padding: 200px 0;
+    position: relative;
+    overflow: hidden;
+
+    .background-image-container {
+      width: 100%;
+      height: 100%;
+    }
+
+    .background-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 200px;
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #fff 91.67%);
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    .container {
+      z-index: 2;
+    }
+
+    .title {
+      color: #000;
+      font-size: 64px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 80px;
+      min-height: 160px;
+    }
+    .input {
+      position: relative;
+      width: 80%;
+      height: 40px;
+      .auto-complete {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+      }
+      &Style {
+        border-radius: 10px;
+        gap: 10px;
+      }
+    }
+    .divider {
+      margin-top: 50px;
+      margin-bottom: 50px;
+      background: rgba(28, 39, 49, 0.2);
+      width: 80%;
+    }
+    .progressApp {
+      .ant-progress-bg {
+        height: 30px !important;
+      }
+      .ant-progress-inner {
+        background-color: #ffffff !important;
+      }
+    }
+    .progress {
+      margin-left: 50px;
+      height: 500px;
+      width: 400px;
+      transform: rotate(-90deg);
+      &Name {
+        margin: 0 -25px;
+        width: 120px;
+        text-align: center;
+        font-weight: 500;
+        transform: rotate(90deg);
+        padding: 0px 10px;
+      }
+      &Image {
+        transform: rotate(90deg);
+        border-radius: 10px;
+      }
+
+      &-0 {
+        width: 100px;
+      }
+      &-1 {
+        width: 140px;
+      }
+      &-2 {
+        width: 186px;
+      }
+      &-3 {
+        width: 212px;
+      }
+      &-4 {
+        width: 247px;
+      }
+    }
+
+    .description {
+      color: #000;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+
+    .ctaBtn {
+      text-align: left;
+      margin-top: 45px;
+    }
+  }
+
+  &Param {
+    margin-bottom: 100px;
+    .dashboardExplore {
+      .textMarket {
+        display: flex;
+        justify-content: center;
+        flex-wrap: nowrap;
+        align-items: center;
+      }
+      &TextUnderstand {
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 44px;
+        margin-bottom: 20px;
+        text-align: center;
+      }
+      &Text {
+        font-size: 20px;
+        color: #5e6a74;
+        text-align: center;
+        line-height: 30px;
+      }
+      &Box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        overflow: hidden;
+        margin-top: 30px;
+        height: 250px;
+        width: 400px;
+        padding: 20px 20px 20px 30px;
+        .totalDesc {
+          font-size: 14px;
+          color: #667085;
+          text-align: center;
+        }
+        .totalTitle {
+          margin: 20px 0 8px 0;
+          .typographyText {
+            font-size: 20px;
+            color: #000000;
+            font-weight: 500;
+          }
+        }
+      }
+    }
+    .detail {
+      margin-top: 100px;
+      margin-bottom: 150px;
+      &Text {
+        font-size: 24px;
+        color: #5e6a74;
+      }
+      &Box {
+        margin-top: 30px;
+        height: 150px;
+        width: 300px;
+        padding: 20px 20px 20px 30px;
+        border-radius: 6px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        .totalDesc {
+          font-size: 20px;
+          font-weight: 500;
+          margin-left: 5px;
+        }
+        .totalTitle {
+          font-size: 40px;
+          color: #000;
+          font-weight: 600;
+          margin: 0;
+        }
+        &:hover {
+          box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+          .totalDesc {
+            color: #cc9d24;
+          }
+          .totalTitle {
+            color: #cc9d24;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 1600px) {
+  .layoutLandingPageParam {
+    .dashboardExplore {
+      &Box {
+        width: 100%;
+        height: 200px;
+        margin-top: 0px;
+      }
+    }
+  }
+}
+
+@media (max-width: 1550px) {
+  .layoutLandingPageUnlock {
+    .dashboardExplore {
+      &Box {
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media (max-width: 1366px) {
+  .layoutLandingPageParam {
+    .detail {
+      &Box {
+        width: 400px;
+      }
+    }
+  }
+}
+
+@media (max-width: 1300px) {
+  .layoutLandingPageUnlockInsights {
+    .dashboardExplore {
+      &Box {
+        .content {
+          display: block;
+          .contentLeft {
+            width: 100%;
+            margin: 0;
+          }
+          .imageUnlock {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 1200px) {
+  .layoutLandingPageDownload {
+    align-items: center;
+  }
+  .progress {
+    height: 400px !important;
+    margin-left: 50px;
+  }
+  .downloadCols {
+    display: none;
+  }
+  .layoutLandingPageParam {
+    .detail {
+      &Box {
+        width: 790px;
+      }
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  .bordered {
+    width: 100% !important;
+  }
+  .progress {
+    height: 450px !important;
+  }
+  .layoutLandingPageIntro {
+    padding: 50px 0 !important;
+  }
+  .layoutLandingPageParam {
+    .detail {
+      &Box {
+        width: 690px;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .input,
+  .divider {
+    width: 100% !important;
+  }
+  .layoutLandingPageParam {
+    .detail {
+      &Box {
+        width: 500px;
+      }
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .progress {
+    height: 390px !important;
+    margin-left: 10px !important;
+  }
+  .layoutLandingPageParam {
+    .detail {
+      &Box {
+        width: 400px;
+      }
+    }
+  }
+}
+
+@media (max-width: 410px) {
+  .layoutLandingPageParam {
+    .detail {
+      &Box {
+        width: 300px;
+      }
+    }
+  }
+}
+
+@media (max-width: 430px) {
+  .layoutLandingPageCollection {
+    img {
+      width: 40px;
+      height: 40px;
+      position: absolute;
+      left: 0;
+    }
+  }
+  .layoutLandingPageDownload {
+    .downloadTitle {
+      font-size: 50px;
+    }
+  }
+  .progress {
+    height: 340px !important;
+    margin-bottom: 92px;
+  }
+  .layoutLandingPage {
+    overflow: hidden;
+  }
+}

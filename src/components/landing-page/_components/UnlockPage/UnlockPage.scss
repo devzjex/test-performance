@@ -1,0 +1,57 @@
+.layoutLandingPageUnlock {
+  margin-bottom: 100px;
+  background: radial-gradient(ellipse at 50% 57%, #fdda83, #ffffff 50%);
+  .dashboardExplore {
+    height: 100%;
+    width: 100%;
+    .textMarket {
+      display: flex;
+      justify-content: center;
+      flex-wrap: nowrap;
+      align-items: center;
+    }
+    &TextUnderstand {
+      font-size: 40px;
+      font-weight: 600;
+      line-height: 44px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    &Text {
+      font-size: 20px;
+      color: #5e6a74;
+      text-align: center;
+      line-height: 30px;
+      margin-bottom: 50px;
+    }
+    &Box {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      overflow: hidden;
+      margin-top: 30px;
+      height: 150px;
+      width: 300px;
+      padding: 20px 20px 20px 30px;
+      background-color: #ffffff;
+      border-radius: 6px;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      margin-bottom: 50px;
+      .totalDesc {
+        font-size: 14px;
+        color: #000000;
+        text-align: center;
+      }
+      .totalTitle {
+        margin-bottom: 8px;
+        .typographyText {
+          font-size: 20px;
+          color: #000000;
+          font-weight: 500;
+        }
+      }
+    }
+  }
+}

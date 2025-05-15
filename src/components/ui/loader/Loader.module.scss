@@ -1,0 +1,17 @@
+.loaderContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.loaderWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spinner {
+  font-size: 3rem;
+  color: #1890ff;
+}

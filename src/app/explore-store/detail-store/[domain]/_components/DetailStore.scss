@@ -1,0 +1,190 @@
+.store-detail {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  .info-store-container {
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fafafa;
+  }
+  .info-store-card {
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    .ant-list-item-meta-avatar {
+      margin-top: 5px;
+    }
+    .ant-list-item-meta-title {
+      .app-name-store {
+        color: #000000;
+        font-weight: 500;
+        &:hover {
+          color: #000000 !important;
+        }
+      }
+    }
+    .install-rating {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: flex-start;
+      flex-wrap: nowrap;
+      .rate {
+        display: flex;
+        align-items: center;
+        flex-wrap: nowrap;
+        color: #d8aa34;
+        .count-rate {
+          margin-top: 1px;
+          margin-left: 3px;
+        }
+      }
+    }
+
+    .tech-description {
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      -webkit-line-clamp: 2;
+      text-overflow: ellipsis;
+    }
+  }
+
+  .built4-shopify {
+    background-color: #e0f0ff;
+    width: 75px;
+    padding: 3px 10px;
+    border-radius: 8px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    .diamond-icon {
+      margin: -1px 5px 0px 0px;
+      width: 15px;
+      height: 15px;
+    }
+
+    span {
+      padding-top: 3px;
+    }
+    strong {
+      color: rgba(0, 0, 0, 0.88);
+    }
+  }
+  .list-item-app {
+    width: 100%;
+    .name-bfs {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 10px;
+      .name-app {
+        margin: 0;
+      }
+    }
+    .btn-timeline {
+      text-align: right;
+    }
+  }
+
+  .info-store {
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    .title-store {
+      display: block;
+      font-size: 14px;
+      color: #888;
+    }
+    .content {
+      display: block;
+      font-size: 14px;
+      color: #000;
+    }
+    .link-store {
+      text-decoration: underline;
+    }
+  }
+
+  .show-data {
+    text-align: center;
+    margin-top: 16px;
+    .ant-btn-text {
+      text-decoration: underline;
+    }
+  }
+}
+
+.modal-open-timeline {
+  .ant-modal-body {
+    max-height: 70vh;
+    overflow-y: auto;
+    .content-open-detail {
+      width: 95%;
+    }
+  }
+}
+
+.tag-cate {
+  border: 1px solid #d8aa34 !important;
+  color: #d8aa34 !important;
+  margin: 4px !important;
+  border-radius: 16px !important;
+  padding: 2px 10px !important;
+  font-weight: 500;
+}
+
+.show-item {
+  margin-top: 20px;
+  span {
+    text-decoration: underline;
+  }
+}
+
+h5 {
+  margin-top: 0;
+}
+
+@media (max-width: 1024px) {
+  .store-detail {
+    padding: 10px;
+
+    .ant-card {
+      padding: 10px;
+    }
+
+    .list-item-app {
+      display: flex;
+      align-items: flex-start;
+      .name-bfs {
+        display: block;
+        .name-app {
+          margin: 10px 0;
+        }
+        .built4-shopify {
+          width: 100%;
+          margin: 10px 0px;
+        }
+      }
+    }
+    .ant-col {
+      margin-bottom: 15px;
+      width: 100%;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .store-detail {
+    .ant-card-head-title {
+      white-space: pre-wrap;
+      text-align: center;
+    }
+  }
+}
